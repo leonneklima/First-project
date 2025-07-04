@@ -11,7 +11,7 @@ public class main {
 
         System.out.println("\n--- Informações ---");
         System.out.println("Nome:" + nome);
-        System.out.println("Idade:" + idade + "anos");
+        System.out.println("Idade:" + idade + " anos");
         System.out.println("Altura:" + altura + "m");
         System.out.println("É estudante:" + estudante);
 
@@ -27,10 +27,10 @@ public class main {
 
 
         if (idade >= 18) {
-            System.out.println("\n" + nome + "é maior de idade!");
+            System.out.println("\n" + nome + " é maior de idade!");
 
         } else {
-            System.out.println("\n" + nome + "é menor de idade");
+            System.out.println("\n" + nome + " é menor de idade");
         }
 
         System.out.println("\n--- Contando até 5 ---");
