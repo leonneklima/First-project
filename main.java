@@ -20,10 +20,10 @@ public class main {
         int b = 5;
 
         System.out.println("\n--- Operações ---");
-        System.out.println(a + "+" + b + "=" + (a + b));
-        System.out.println(a + "-" + b + "=" + (a - b));
-        System.out.println(a + "*" + b + "=" + (a * b));
-        System.out.println(a + "/" + b + "=" + (a / b));
+        System.out.println(a + " + " + b + " = " + (a + b));
+        System.out.println(a + " - " + b + " = " + (a - b));
+        System.out.println(a + " * " + b + " = " + (a * b));
+        System.out.println(a + " / " + b + " = " + (a / b));
 
 
         if (idade >= 18) {
